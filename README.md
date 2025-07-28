@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning ** Node.js **
 
 - 📫 How to reach me **selahattindemircinn@gmail.com**
 
