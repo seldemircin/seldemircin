@@ -8,10 +8,7 @@
 
 - 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning ** Node.js **
-
-- 📫 How to reach me **selahattindemircinn@gmail.com**
-
+- 📫 How to reach me **seldemircin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
